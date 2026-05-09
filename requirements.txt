@@ -1,5 +1,8 @@
 streamlit
-langchain
-faiss-cpu
+langchain==0.2.1
+langchain-community==0.2.1
+faiss-cpu==1.7.4
 sentence-transformers
 transformers
+torch
+pypdf
