@@ -129,7 +129,6 @@
 # add PDF READER....................................................................
 
 import streamlit as st
-X
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings, HuggingFacePipeline
 from langchain_classic.chains import RetrievalQA
